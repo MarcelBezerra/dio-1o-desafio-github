@@ -3,4 +3,4 @@
 Repositório criado para o desafio de projeto sobre Git/GitHub.
 
 ## Links Úteis
-Link útil para estudar markdown é [markdown guide](markdownguide.org/basic-syntax)
+Link útil para estudar markdown é [markdown guide](https://markdownguide.org/basic-syntax)
